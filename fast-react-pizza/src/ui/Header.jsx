@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import SearchOrder from '../features/order/SearchOrder';
+import Username from '../features/user/Username';
 
 function Header() {
   return (
@@ -8,7 +9,7 @@ function Header() {
         Fast React Pizza Co.
       </Link>
       <SearchOrder />
-      <p className="hidden sm:block">Jonas</p>
+      <Username />
     </header>
   );
 }
