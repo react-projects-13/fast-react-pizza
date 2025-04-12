@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://react-projects-13.github.io/fast-react-pizza/some-page",
+  "homepage": "https://react-projects-13.github.io/fast-react-pizza/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
